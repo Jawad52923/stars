@@ -1,0 +1,9 @@
+c:\users\tabish\documents\visual studio 2010\Projects\star\star\bin\Debug\star.exe
+c:\users\tabish\documents\visual studio 2010\Projects\star\star\bin\Debug\star.pdb
+c:\users\tabish\documents\visual studio 2010\Projects\star\star\obj\x86\Debug\star.exe
+c:\users\tabish\documents\visual studio 2010\Projects\star\star\obj\x86\Debug\star.pdb
+C:\Users\Tabish\Desktop\pf lec\star\star\obj\x86\Debug\star.exe
+C:\Users\Tabish\Desktop\pf lec\star\star\obj\x86\Debug\star.pdb
+C:\Users\Tabish\Desktop\pf lec\star\star\bin\Debug\star.exe
+C:\Users\Tabish\Desktop\pf lec\star\star\bin\Debug\star.pdb
+C:\Users\Tabish\Desktop\pf lec\star\star\obj\x86\Debug\star.csprojResolveAssemblyReference.cache

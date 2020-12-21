@@ -1,0 +1,11 @@
+c:\users\tabish\documents\visual studio 2010\Projects\star with decrement\star with decrement\bin\Debug\star with decrement.exe
+c:\users\tabish\documents\visual studio 2010\Projects\star with decrement\star with decrement\bin\Debug\star with decrement.pdb
+c:\users\tabish\documents\visual studio 2010\Projects\star with decrement\star with decrement\obj\x86\Debug\star with decrement.exe
+c:\users\tabish\documents\visual studio 2010\Projects\star with decrement\star with decrement\obj\x86\Debug\star with decrement.pdb
+C:\Users\Tabish\Desktop\pf lec\star with decrement\star with decrement\obj\x86\Debug\star with decrement.exe
+C:\Users\Tabish\Desktop\pf lec\star with decrement\star with decrement\obj\x86\Debug\star with decrement.pdb
+F:\uni work\PAF-KEIT\pf lec\star with decrement\star with decrement\obj\x86\Debug\star with decrement.exe
+F:\uni work\PAF-KEIT\pf lec\star with decrement\star with decrement\obj\x86\Debug\star with decrement.pdb
+F:\uni work\PAF-KEIT\pf lec\star with decrement\star with decrement\bin\Debug\star with decrement.exe
+F:\uni work\PAF-KEIT\pf lec\star with decrement\star with decrement\bin\Debug\star with decrement.pdb
+F:\uni work\PAF-KEIT\pf lec\star with decrement\star with decrement\obj\x86\Debug\star with decrement.csprojResolveAssemblyReference.cache

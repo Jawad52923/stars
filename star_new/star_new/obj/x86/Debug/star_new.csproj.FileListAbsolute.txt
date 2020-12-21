@@ -1,0 +1,11 @@
+c:\users\tabish\documents\visual studio 2010\Projects\star_new\star_new\bin\Debug\star_new.exe
+c:\users\tabish\documents\visual studio 2010\Projects\star_new\star_new\bin\Debug\star_new.pdb
+c:\users\tabish\documents\visual studio 2010\Projects\star_new\star_new\obj\x86\Debug\star_new.exe
+c:\users\tabish\documents\visual studio 2010\Projects\star_new\star_new\obj\x86\Debug\star_new.pdb
+C:\Users\Tabish\Desktop\pf lec\star_new\star_new\obj\x86\Debug\star_new.exe
+C:\Users\Tabish\Desktop\pf lec\star_new\star_new\obj\x86\Debug\star_new.pdb
+F:\uni work\PAF-KEIT\pf lec\star_new\star_new\obj\x86\Debug\star_new.exe
+F:\uni work\PAF-KEIT\pf lec\star_new\star_new\obj\x86\Debug\star_new.pdb
+F:\uni work\PAF-KEIT\pf lec\star_new\star_new\bin\Debug\star_new.exe
+F:\uni work\PAF-KEIT\pf lec\star_new\star_new\bin\Debug\star_new.pdb
+F:\uni work\PAF-KEIT\pf lec\star_new\star_new\obj\x86\Debug\star_new.csprojResolveAssemblyReference.cache

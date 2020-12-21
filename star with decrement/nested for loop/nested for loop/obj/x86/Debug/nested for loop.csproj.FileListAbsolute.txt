@@ -1,0 +1,4 @@
+c:\users\tabish\documents\visual studio 2010\Projects\nested for loop\nested for loop\bin\Debug\nested for loop.exe
+c:\users\tabish\documents\visual studio 2010\Projects\nested for loop\nested for loop\bin\Debug\nested for loop.pdb
+c:\users\tabish\documents\visual studio 2010\Projects\nested for loop\nested for loop\obj\x86\Debug\nested for loop.exe
+c:\users\tabish\documents\visual studio 2010\Projects\nested for loop\nested for loop\obj\x86\Debug\nested for loop.pdb
